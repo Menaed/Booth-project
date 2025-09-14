@@ -6,6 +6,7 @@
 |[komado](https://komado.booth.pm)|更新|[AvatarDMCA](https://x.com/AvatarDMCA/following)|
 |[キュビクローゼット](https://kyubihome.booth.pm)|下落不明|无动作|
 |[もち山金魚](https://mukumi.booth.pm/)|更新|[AvatarDMCA](https://x.com/AvatarDMCA/following)|
+|[寺井カントリー](https://athv.booth.pm/)|更新|[AvatarDMCA](https://x.com/AvatarDMCA/following)|
 
 |模型|公開日時|协议|
 |-----------------------------------------------|---|---|
